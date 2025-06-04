@@ -153,3 +153,14 @@ Puedes usar el archivo `memory-datasource.http` para probar la funcionalidad con
 
 - [Memory Datasource Guide](./MEMORY_DATASOURCE.md) - Guía completa del datasource de memoria
 - [memory-datasource.http](./memory-datasource.http) - Ejemplos de peticiones HTTP
+
+
+![I1](./public/assets/images/I1.jpg)
+
+![I2](./public/assets/images/I2.jpg)
+
+![I3](./public/assets/images/I3.jpg)
+
+![I4](./public/assets/images/I4.jpg)
+
+![I5](./public/assets/images/I5.jpg)
